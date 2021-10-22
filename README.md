@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gdong6
-- 👀 I’m interested in ...
+- 👀 I’m interested in digital product, rocket science, aviation industry
 - 🌱 I’m currently learning computer science in University of Wisconsin-Madison
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+- 📫 How to reach me cooper2000d@gmail.com
 
 <!---
 gdong6/gdong6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
