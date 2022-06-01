@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning computer science in University of Wisconsin-Madison
 
 - 📫 How to reach me cooper2000d@gmail.com
+- Web gdong6.github.io
 
 <!---
 gdong6/gdong6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
