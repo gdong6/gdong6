@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gdong6
 - 👀 I’m interested in digital product, rocket science, aviation industry
-- 🌱 I’m currently learning computer science in University of Wisconsin-Madison
+- 🌱 I’m currently learning in Cornell University
 
 - 📫 How to reach me cooper2000d@gmail.com
 - Web gdong6.github.io/GX-Web
