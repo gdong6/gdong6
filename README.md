@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning in Cornell University
 
 - 📫 How to reach me cooper2000d@gmail.com
-- Web gdong6.github.io/GX-Web
+- Web [gdong6.github.io/GX-Web](https://gdong6.github.io/GX-Web/)
 
 <!---
 gdong6/gdong6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
